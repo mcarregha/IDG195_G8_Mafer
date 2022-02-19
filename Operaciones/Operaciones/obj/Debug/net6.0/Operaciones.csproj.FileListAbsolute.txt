@@ -1,0 +1,15 @@
+C:\Users\axell\source\repos\Operaciones\Operaciones\bin\Debug\net6.0\Operaciones.exe
+C:\Users\axell\source\repos\Operaciones\Operaciones\bin\Debug\net6.0\Operaciones.deps.json
+C:\Users\axell\source\repos\Operaciones\Operaciones\bin\Debug\net6.0\Operaciones.runtimeconfig.json
+C:\Users\axell\source\repos\Operaciones\Operaciones\bin\Debug\net6.0\Operaciones.dll
+C:\Users\axell\source\repos\Operaciones\Operaciones\bin\Debug\net6.0\ref\Operaciones.dll
+C:\Users\axell\source\repos\Operaciones\Operaciones\bin\Debug\net6.0\Operaciones.pdb
+C:\Users\axell\source\repos\Operaciones\Operaciones\obj\Debug\net6.0\Operaciones.csproj.AssemblyReference.cache
+C:\Users\axell\source\repos\Operaciones\Operaciones\obj\Debug\net6.0\Operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axell\source\repos\Operaciones\Operaciones\obj\Debug\net6.0\Operaciones.AssemblyInfoInputs.cache
+C:\Users\axell\source\repos\Operaciones\Operaciones\obj\Debug\net6.0\Operaciones.AssemblyInfo.cs
+C:\Users\axell\source\repos\Operaciones\Operaciones\obj\Debug\net6.0\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\axell\source\repos\Operaciones\Operaciones\obj\Debug\net6.0\Operaciones.dll
+C:\Users\axell\source\repos\Operaciones\Operaciones\obj\Debug\net6.0\ref\Operaciones.dll
+C:\Users\axell\source\repos\Operaciones\Operaciones\obj\Debug\net6.0\Operaciones.pdb
+C:\Users\axell\source\repos\Operaciones\Operaciones\obj\Debug\net6.0\Operaciones.genruntimeconfig.cache
