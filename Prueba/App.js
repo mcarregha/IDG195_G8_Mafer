@@ -21,6 +21,6 @@ const styles = StyleSheet.create({
   },
 
   titleText:{
-    fontSize: 12
+    fontSize: 15
   }
 });
